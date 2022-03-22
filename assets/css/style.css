@@ -27,6 +27,9 @@ h1, h2, h3, h4, h5, h6 {
   font-family: "Raleway", sans-serif;
 }
 
+p.large-font {
+  font-size: 1.15rem;
+}
 /*--------------------------------------------------------------
 # Back to top button
 --------------------------------------------------------------*/
@@ -430,7 +433,7 @@ section {
   border-radius: 0;
 }
 .skills .progress .skill {
-  padding: 10px 0;
+  /* padding: 10px 0; */
   margin: 0;
   text-transform: uppercase;
   display: block;
