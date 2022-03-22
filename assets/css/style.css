@@ -448,6 +448,10 @@ section {
 .progress {
   overflow: visible !important;
 }
+.col.progress {
+  font-size: 1.4rem;
+  margin-bottom: 2rem;
+}
 
 
 /*--------------------------------------------------------------
